@@ -1,4 +1,4 @@
-import { UserCardProps, UserProps } from "@/interface";
+import { UserCardProps, UserProps } from "@/interfaces";
 import React from "react";
 
 const UserCard: React.FC<UserCardProps> = ({ user }) => {
